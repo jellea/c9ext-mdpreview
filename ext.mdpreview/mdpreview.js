@@ -35,7 +35,7 @@ define(function(require, exports, module) {
         type: ext.EDITOR,
         deps: [editors],
         markup: markup,
-        fileExtensions: ["#!mdpreview","md"],
+        fileExtensions: ["#!mdpreview","md","markdown"],
         docs : {},
         nodes: [],
 
